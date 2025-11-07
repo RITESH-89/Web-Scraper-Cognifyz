@@ -53,8 +53,9 @@ Web-Scraper-Cognifyz/
 
 ## 📤OUTPUT
 
+<img width="1568" height="1002" alt="Screenshot 2025-11-07 192054" src="https://github.com/user-attachments/assets/d58c838d-b125-4fec-be65-5295865b2630" />
 <img width="757" height="713" alt="Screenshot 2025-11-07 192332" src="https://github.com/user-attachments/assets/a0c6dfde-eaf0-434a-957c-6c25cc2ee266" />
 <img width="1915" height="718" alt="Screenshot 2025-11-07 192319" src="https://github.com/user-attachments/assets/a30b1e24-1076-4cf1-82e4-f9bab7083ac4" />
-<img width="1568" height="1002" alt="Screenshot 2025-11-07 192054" src="https://github.com/user-attachments/assets/d58c838d-b125-4fec-be65-5295865b2630" />
+
 
 ---
